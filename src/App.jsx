@@ -1,7 +1,7 @@
 
 import './App.css';
 import Lista from './components/Lista'
-import Formulario from './components/formulario'
+import Formulario from './components/Formulario'
 import Titulo from './components/Titulo'
 
 function App() {
