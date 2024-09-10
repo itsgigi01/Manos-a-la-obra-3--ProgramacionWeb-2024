@@ -1,12 +1,13 @@
-.contenedor {
-    font-family: Roboto;
+body{
+    font-family: Arial, Helvetica, sans-serif;
     width: 50%;
     height: 80vh;
     margin: 0 auto;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border: 1px solid rgb(255, 255, 255);
     border-radius: 0%;
 }
+
 
 .titulo{
     text-align: center;
